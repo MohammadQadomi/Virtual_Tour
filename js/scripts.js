@@ -1,5 +1,5 @@
 //import * as THREE from "three";
-import * as THREE from "../../node_modules/three/src/Three.js";
+import * as THREE from "../node_modules/three/src/Three.js";
 //import {OrbitControls} from "../../node_modules/three/examples/jsm/controls/OrbitControls.js";
 
 const renderer = new THREE.WebGLRenderer();
